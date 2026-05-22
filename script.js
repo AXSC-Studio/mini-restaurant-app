@@ -52,6 +52,7 @@ function renderMenu() {
     .join("");
 }
 
+
 function attachOrderButtonEvents() {
   const orderButtons = document.querySelectorAll(".order-button");
 
